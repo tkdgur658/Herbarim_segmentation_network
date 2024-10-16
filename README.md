@@ -7,7 +7,7 @@ This repository contains an official implementation of PSA-UNet using PyTorch.<b
 
 
 ## Data preprocessing and Neural Network
-![Local Image](PSA_UNet.pdf "PSA_UNet")
+![Local Image](PSA_UNet.png "PSA_UNet")
 ## Paper
 If you use this software for your research, please cite:
 
