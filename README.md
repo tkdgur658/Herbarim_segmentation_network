@@ -1,13 +1,13 @@
-# PyTorch Implementation of PSA-UNet
+# PyTorch Implementation of MRB-UNet
  
 The architecture can be referenced by a manuscript entitled, "Enhancing Encoder with Multiple Kernel Sizes for Herbarium Image Segmentation Network." 
 
 ## Overview
-This repository contains an official implementation of PSA-UNet using PyTorch.<br/>
+This repository contains an official implementation of MRB-UNet using PyTorch.<br/>
 
 
 ## Data preprocessing and Neural Network
-![Local Image](PSA_UNet.png "PSA_UNet")
+![Local Image](MRB_UNet.png "MRB_UNet")
 ## Paper
 If you use this software for your research, please cite:
 
@@ -24,8 +24,8 @@ This program is available for download for non-commercial use, licensed under th
 
 ## Files
 The repository contains the following files:
-- `main.py`: Ipynb script file, containing the PyTorch implementation of the PSA-UNet
-- `PSA_UNet.pdf`: Figure file for network
+- `main.py`: Ipynb script file, containing the PyTorch implementation of the MRB-UNet
+- `MRB_UNet.png`: Figure file for network
 - `README.md`: Markdown file explaining the model source code
 
 
