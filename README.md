@@ -1,4 +1,4 @@
-# PyTorch Implementation of MRB-UNet
+# PyTorch Implementation of HSNet
  
 The architecture can be referenced by a manuscript entitled, "Multiple Kernel-Enhanced Encoder for Effective Herbarium Image Segmentation." 
 
