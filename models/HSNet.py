@@ -310,9 +310,9 @@ class ResNet(nn.Module):
 
     
 
-class ObsNet_Remove_att(nn.Module):
+class HSNet(nn.Module):
     def __init__(self,in_channels=3,num_classes=1, init_features=64):
-        super(ObsNet_Remove_att, self).__init__()
+        super(HSNet, self).__init__()
 
         batchNorm_momentum = 0.1
         num_features = init_features
@@ -392,4 +392,4 @@ class ObsNet_Remove_att(nn.Module):
         return x11d
 
 # import pytorch_model_summary
-# print(pytorch_model_summary.summary(ObsNet_Remove_att(1),torch.rand((1, 1, 512, 512))))   
+# print(pytorch_model_summary.summary(HSNet(1),torch.rand((1, 1, 512, 512))))   
