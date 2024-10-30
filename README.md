@@ -24,7 +24,8 @@ This program is available for download for non-commercial use, licensed under th
 
 ## Files
 The repository contains the following files:
-- `main.ipynb`: Ipynb script file, containing the PyTorch implementation of the MRB-UNet
+- `main.ipynb`: Ipynb script file, containing the PyTorch implementation of the training and evaluation for the neural network
+- `models/HSNet.py`: Python script file, containing the PyTorch implementation of the HSNet
 - `herbarim_segmentation_network.png`: Figure file for network
 - `README.md`: Markdown file explaining the model source code
 
